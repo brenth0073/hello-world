@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository!
+Just a newbie trying to learn.  There's a whole world out there...
